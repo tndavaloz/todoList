@@ -6,10 +6,10 @@
 * Play around with Pug templating
 
 ## What has been done and the what is left (working list)
-- [ ] Setup a working Express application
-- [ ] Get database connection working
-- [ ] Simple GET/POST/PATCH/DELETE method routes working
-- [ ] Setup Pug templating
+- [x] Setup a working Express application
+- [x] Get database connection working
+- [x] Simple GET/POST/PATCH/DELETE method routes working
+- [x] Setup Pug templating
 - [ ] FE interaction with API
 - [ ] Style FE
 - [ ] More to come...
